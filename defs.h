@@ -45,7 +45,7 @@
     printf("\t5. Show number\n");
 
 #define GET_BIT_AND_CHECK(action) \
-    printf("\tProvide bit number for [%s]:\n", #action); \
+    printf("Provide bit number for [%s]:\n", #action); \
     test = scanf("%i", &bit); \
     if (test != 1) { \
         printf("\tInvalid bit number\n"); \
