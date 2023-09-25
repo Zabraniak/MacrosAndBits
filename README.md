@@ -11,7 +11,7 @@
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Info](#info)
 
 ## Description
 
@@ -63,5 +63,5 @@ Contributions are welcome! If you have any improvements or new features to add, 
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## Info
 This project can help people understand how bits: setting/clearing/toggling works or how a number can be described by a binary system. It uses macros to do almost everything - it's not necessary but it was more interesting to implement it this way. The nice addition is a loading bar that imitates the "processing" progress.
