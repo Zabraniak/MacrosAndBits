@@ -58,7 +58,7 @@ Standard C libraries
 | ![MacrosAndBitsCLEAR](https://i.imgur.com/3PeCzJP.png) | ![MacrosAndBitsSHOW](https://i.imgur.com/9nt2qua.png) |
 
 ## Contributing
-Contributions are welcome! If you have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request.
+Contributions are welcome! If you have any improvements or new features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
